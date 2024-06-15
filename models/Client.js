@@ -7,11 +7,7 @@ const clientSchema = new mongoose.Schema({
   middle_name: { type: String, required: true },
   birthdate: { type: String, required: true }, //number?date?
   inn: { type: Number, required: true },
-  responsible_person: {
-    type: mongoose.Schema.Types.ObjectId,
-    required: true,
-    ref: "User",
-  },
+  responsible_person: { type: String, required: true },
   status: { type: String, default: "Не в работе", required: true },
 });
 
