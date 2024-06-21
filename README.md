@@ -63,7 +63,9 @@ https://aton-internship-api.onrender.com/
 
 База в Railway
 
-[Коллекция Постман для тестирования API](https://bold-sunset-137189.postman.co/workspace/Team-Workspace~683cfb31-a2b2-4a07-8367-ef04467bf6de/collection/32670769-8cf7c849-bba3-452b-94c4-ba999f9c76fb?action=share&creator=32670769)
+Коллекция Постман для тестирования API
+<br/>
+[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/32670769-4a300dfb-1bf5-4eb5-8208-a7fcb9984844?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D32670769-4a300dfb-1bf5-4eb5-8208-a7fcb9984844%26entityType%3Dcollection%26workspaceId%3Dd4e20fef-dafa-4ce3-b8ae-0e004c12fc2a)
 
 ### Локальная сборка
 
